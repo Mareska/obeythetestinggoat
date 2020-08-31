@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/lists/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests for functional_tests.NewVisitorTest.test_can_start_a_list_and_retrieve_it_later" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_tdd_book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;functional_tests.NewVisitorTest.test_can_start_a_list_and_retrieve_it_later&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for functional_tests.NewVisitorTest.test_can_start_a_list_and_retrieve_it_later" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,5 +71,27 @@
       <updated>1598852209607</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1015" height="28" key="GridCell.Tab.0.bottom" timestamp="1598869388044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1015" height="28" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598869388044" />
+    <state width="1015" height="28" key="GridCell.Tab.0.center" timestamp="1598869388044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1015" height="28" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598869388044" />
+    <state width="1015" height="28" key="GridCell.Tab.0.left" timestamp="1598869388044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1015" height="28" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598869388044" />
+    <state width="1015" height="28" key="GridCell.Tab.0.right" timestamp="1598869388044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1015" height="28" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598869388044" />
+    <state x="0" y="109" key="SettingsEditor" timestamp="1598869722182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598869722182" />
   </component>
 </project>
